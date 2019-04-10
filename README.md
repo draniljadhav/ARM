@@ -1,2 +1,2 @@
 # ARM
-Association Rule Mining using Apriori
+Association Rule Mining using Apriori algorithm
